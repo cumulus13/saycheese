@@ -9,3 +9,7 @@ cd saycheese
 bash saycheese
 ```
 
+
+![capture1](https://raw.githubusercontent.com/itsredhack/saycheese/master/itsredhack8.jpg)
+
+
